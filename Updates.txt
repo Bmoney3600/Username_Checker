@@ -1,0 +1,4 @@
+Add username generator with seperate text file.
+Add Discord Webhooks
+Add browse function.
+Gui one day :D
